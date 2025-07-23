@@ -1,6 +1,6 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+  "name": "𝐃𝐄𝐕𝐈𝐋-𝐌𝐃",
+  "description": "Javascript WhatsApp bot made by voiitxna",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
@@ -14,7 +14,7 @@
         
     },
       "BOT_NAME": {
-        "description": "write here your bot name.",
+        "description": "𝐃𝐄𝐕𝐈𝐋-𝐌𝐃",
         "required": true,
         "value": "ᴍᴀʟᴠɪɴ xᴅ" 
         
@@ -32,20 +32,20 @@
         
    },
      "DESCRIPTION": {
-      "description": "add caption for menu and other",
+      "description": "𝙳𝙴𝚅𝙸𝙻-𝙼𝙳 on board...how may i help you",
       "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "27661021575",
       "value": "263714757857"
       "required": true
       
    },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "voiitxna",
       "value": "",
       "required": true
     }
